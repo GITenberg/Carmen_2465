@@ -1,0 +1,61 @@
+_repo: Carmen_2465
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Loyd, Mary, Lady
+    aliases:
+    - Lloyd, Mary, Lady
+    - Loyd, Lady Mary Sophia (Hely-Hutchinson)
+    birthdate: 1853
+    deathdate: 1936
+    gutenberg_agent_id: '921'
+    url: http://www.gutenberg.org/2009/agents/921
+creator:
+  author:
+    agent_name: Mérimée, Prosper
+    alias: Merimee, Prosper
+    birthdate: 1803
+    deathdate: 1870
+    gutenberg_agent_id: '920'
+    url: http://www.gutenberg.org/2009/agents/920
+    wikipedia: http://en.wikipedia.org/wiki/Prosper_Mérimée
+description: "Carmen is a novella by Prosper Mérimée, written and first published\
+  \ in 1845. It has been adapted into a number of dramatic works, including the famous\
+  \ opera by Georges Bizet.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2006-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2465'
+  wikidata: Q674832
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Carmen (Fictitious character) -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: Carmen
+url: http://www.gutenberg.org/ebooks/2465
+wikipedia:
+- https://fi.wikipedia.org/wiki/Carmen_(novelli)
+- https://fr.wikipedia.org/wiki/Carmen_(nouvelle)
+- https://ar.wikipedia.org/wiki/%D9%83%D8%A7%D8%B1%D9%85%D9%86_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%A1%E3%83%B3
+- https://pl.wikipedia.org/wiki/Carmen_(nowela)
+- https://eu.wikipedia.org/wiki/Carmen
+- https://tr.wikipedia.org/wiki/Carmen_(novella)
+- https://de.wikipedia.org/wiki/Carmen_(M%C3%A9rim%C3%A9e)
+- https://es.wikipedia.org/wiki/Carmen_(novela)
+- https://sh.wikipedia.org/wiki/Carmen_(pripovjetka)
+- https://hy.wikipedia.org/wiki/%D4%BF%D5%A1%D6%80%D5%B4%D5%A5%D5%B6_(%D5%B6%D5%B8%D5%BE%D5%A5%D5%AC)
+- https://en.wikipedia.org/wiki/Carmen_(novella)
+- https://it.wikipedia.org/wiki/Carmen_(novella)
+- https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B5%D0%BD_(%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%B0)
+- https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D0%BC%D0%B5%D0%BD_(%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0)
+- https://ca.wikipedia.org/wiki/Carmen_(Prosper_M%C3%A9rim%C3%A9e)
+- https://ro.wikipedia.org/wiki/Carmen_(nuvel%C4%83)
+- https://ko.wikipedia.org/wiki/%EC%B9%B4%EB%A5%B4%EB%A9%98_(%EC%86%8C%EC%84%A4)
+- https://sv.wikipedia.org/wiki/Carmen_(kortroman)
