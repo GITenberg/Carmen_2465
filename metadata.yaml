@@ -1,5 +1,5 @@
 _repo: Carmen_2465
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Loyd, Mary, Lady
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1936
     gutenberg_agent_id: '921'
     url: http://www.gutenberg.org/2009/agents/921
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mérimée, Prosper
@@ -22,6 +25,8 @@ creator:
 description: "Carmen is a novella by Prosper Mérimée, written and first published\
   \ in 1845. It has been adapted into a number of dramatic works, including the famous\
   \ opera by Georges Bizet.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2465#Carmen
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2006-03-28'
 gutenberg_type: Text
